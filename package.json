@@ -1,0 +1,27 @@
+{
+  "name": "lerna-release-test",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterashima78/lerna-release-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sterashima78/lerna-release-test/issues"
+  },
+  "homepage": "https://github.com/sterashima78/lerna-release-test#readme",
+  "devDependencies": {
+    "@lerna-lite/cli": "^1.11.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
