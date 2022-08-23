@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.3](https://github.com/sterashima78/lerna-release-test/compare/package1-2@1.3.2...package1-2@1.3.3) (2022-08-23)
+
+### Bug Fixes
+
+* add text ([2a0f87e](https://github.com/sterashima78/lerna-release-test/commit/2a0f87e4de9a98a61feca94df9de14f269e26c93))
+
 ## [1.3.2](https://github.com/sterashima78/lerna-release-test/compare/package1-2@1.3.1...package1-2@1.3.2) (2022-08-23)
 
 ### Bug Fixes
